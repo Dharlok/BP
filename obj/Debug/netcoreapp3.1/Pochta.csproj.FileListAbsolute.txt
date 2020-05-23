@@ -1,0 +1,11 @@
+C:\Users\бьюбт\source\repos\Pochta\bin\Debug\netcoreapp3.1\Pochta.exe
+C:\Users\бьюбт\source\repos\Pochta\bin\Debug\netcoreapp3.1\Pochta.deps.json
+C:\Users\бьюбт\source\repos\Pochta\bin\Debug\netcoreapp3.1\Pochta.runtimeconfig.json
+C:\Users\бьюбт\source\repos\Pochta\bin\Debug\netcoreapp3.1\Pochta.runtimeconfig.dev.json
+C:\Users\бьюбт\source\repos\Pochta\bin\Debug\netcoreapp3.1\Pochta.dll
+C:\Users\бьюбт\source\repos\Pochta\bin\Debug\netcoreapp3.1\Pochta.pdb
+C:\Users\бьюбт\source\repos\Pochta\obj\Debug\netcoreapp3.1\Pochta.csprojAssemblyReference.cache
+C:\Users\бьюбт\source\repos\Pochta\obj\Debug\netcoreapp3.1\Pochta.AssemblyInfoInputs.cache
+C:\Users\бьюбт\source\repos\Pochta\obj\Debug\netcoreapp3.1\Pochta.AssemblyInfo.cs
+C:\Users\бьюбт\source\repos\Pochta\obj\Debug\netcoreapp3.1\Pochta.dll
+C:\Users\бьюбт\source\repos\Pochta\obj\Debug\netcoreapp3.1\Pochta.pdb
